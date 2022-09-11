@@ -13,5 +13,5 @@
 ![screenshot](https://github.com/SAM6358/Tic-Tac-Toe-using-React/blob/master/Screenshots/Screenshot%202022-09-12%20013715.png) Player O Won | ![screenshot](https://github.com/SAM6358/Tic-Tac-Toe-using-React/blob/master/Screenshots/Screenshot%202022-09-12%20013753.png) It's a tie between player X and O |
 |-|-|
 
-![screenshot](https://github.com/SAM6358/Tic-Tac-Toe-using-React/blob/master/Screenshots/Screenshot%202022-09-12%20013816.png) Viewing Game History | ![screenshot](https://github.com/SAM6358/Tic-Tac-Toe-using-React/blob/master/Screenshots/Screenshot%202022-09-12%20014328.png) Selecting go To move 1 |
+![screenshot](https://github.com/SAM6358/Tic-Tac-Toe-using-React/blob/master/Screenshots/Screenshot%202022-09-12%20013816.png) Viewing Game History | ![screenshot](https://github.com/SAM6358/Tic-Tac-Toe-using-React/blob/master/Screenshots/Screenshot%202022-09-12%20014328.png) Selecting Go to move #1 |
 |-|-|
