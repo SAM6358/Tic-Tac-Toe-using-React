@@ -1,0 +1,35 @@
+[33mcommit efa04c7045ca258719475d7c5ef23cb4901d0bc2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Samarth Singh <samarthsingh6358@gmail.com>
+Date:   Sun Sep 11 00:29:34 2022 +0530
+
+    calculate winner added and message printed on app
+
+[33mcommit ca676bf9530cb7022d2e74d920371531a39ed580[m
+Author: Samarth Singh <samarthsingh6358@gmail.com>
+Date:   Sat Sep 10 23:43:46 2022 +0530
+
+    added board state and onClick event
+
+[33mcommit cf796ad18c6d475b6113758c554000109b74f22a[m
+Author: Samarth Singh <samarthsingh6358@gmail.com>
+Date:   Sat Sep 10 22:01:07 2022 +0530
+
+    added main.css to style the app
+
+[33mcommit f684a0b07e64b77b0d8faad160547674f6689e46[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Samarth Singh <samarthsingh6358@gmail.com>
+Date:   Sat Sep 10 21:06:23 2022 +0530
+
+    board and square components created
+
+[33mcommit d68aac7490fa9476b2f98aa87cab778b48e3f3d7[m
+Author: Samarth Singh <samarthsingh6358@gmail.com>
+Date:   Sat Sep 10 20:24:53 2022 +0530
+
+    init commit:
+
+[33mcommit c3fe5ebc5ed5063db56c3484c5598e838f6a5744[m
+Author: Samarth Singh <samarthsingh6358@gmail.com>
+Date:   Sat Sep 10 19:05:24 2022 +0530
+
+    init commit
