@@ -42,18 +42,34 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1> Tic Tac Toe </h1>
+      <h1>
+        {' '}
+        <span className="text-green"> Tic </span>{' '}
+        <span className="text-orange"> Tac </span>{' '}
+        <span className="text-green"> Toe </span>{' '}
+      </h1>
       <Status_message winner={winner} curr={curr} />
       <Board
         board={curr.board}
         handlesquareclick={handlesquareclick}
         winningSquare={winningSquare}
       />
-      <button type="button" onClick={onNew_game}>
+      <button
+        type="button"
+        onClick={onNew_game}
+        className={`btn-reset ${winner ? 'active' : ''}`}
+      >
         {' '}
         Start new Game{' '}
       </button>
+      <h2>
+        {' '}
+        <span className="text-orange">Current</span>{' '}
+        <span className="text-green"> Game </span>{' '}
+        <span className="text-orange"> History </span>
+      </h2>
       <History history={history} moveTo={moveTo} />
+      <div className="bg-balls" />
     </div>
   );
 };
